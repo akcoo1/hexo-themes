@@ -13,3 +13,12 @@
 [submodule "hexo-theme-matery"]
 	path = hexo-theme-matery
 	url = https://github.com/blinkfox/hexo-theme-matery.git
+[submodule "hexo-theme-material"]
+	path = hexo-theme-material
+	url = https://github.com/bollnh/hexo-theme-material.git
+[submodule "hexo-theme-indigo"]
+	path = hexo-theme-indigo
+	url = https://github.com/yscoder/hexo-theme-indigo.git
+[submodule "hexo-theme-ayer"]
+	path = hexo-theme-ayer
+	url = https://github.com/shen-yu/hexo-theme-ayer.git
